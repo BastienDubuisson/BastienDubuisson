@@ -1,8 +1,6 @@
 # Bastien Dubuisson
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=0077b5)](https://www.linkedin.com/in/bastien-dubuisson-805054151/)[![ORCID](https://img.shields.io/badge/-ORCID-red.svg?style=flat-square&logo=orcid&colorB=161616)](https://orcid.org/0000-0001-9703-1521)
 
-<img src="https://history.uni.lu/wp-content/uploads/sites/55/2019/11/Bastien-Dubuisson-HP.jpg" alt="Bastien Dubuisson" width="300" align="left">
-
 ## Histrian | Digital humanist | Data scientist
 
 After graduating in History (2018), I began my computer science adventure with a one year [advanced MSc in Digital Humanities](https://set.kuleuven.be/onderwijs/mdh) at KU Leuven. I learned many new skills from programming languages (Python, R, JS, HTML, CSS, SQL) to IT management and UX Design (among many others).
