@@ -11,7 +11,7 @@ Wondering why you should hire a programmer with a background in history and what
 
 Many people see a degree in history as a hindrance to success in the tech industry, but I strongly believe that it is quite the opposite.
 
-First, let me start by saying that the skills you acquire as a history student are highly transferable. You learn critical thinking, research and analytical skills, as well as the ability to communicate complex ideas in a clear and concise manner. These skills are highly sought after in the tech industry, where the ability to solve problems and communicate effectively is key to success.
+First, the skills you acquire as a history student are highly transferable. You learn critical thinking, research and analytical skills, as well as the ability to communicate complex ideas in a clear and concise manner. These skills are highly sought after in the tech industry, where the ability to solve problems and communicate effectively is key to success.
 
 In addition to these transferable skills, the beauty of the tech industry is that you can learn to code and develop your technical abilities. The demand for coders is at an all-time high, and with a background in history, you bring a unique perspective to the table. History teaches you about the context and evolution of societies and the role technology has played in shaping our world. This knowledge can help inform your approach to developing technology and ensure that it is developed in a way that is ethical and responsible.
 
