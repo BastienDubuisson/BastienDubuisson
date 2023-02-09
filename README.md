@@ -33,11 +33,11 @@ Let's work together to make a positive impact!
 </details>
 
 <details>
-  <summary>Example Project 2</summary>
+  <summary>The digital beertap</summary>
 
-- **Title:** Example Project 2
-- **Description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-- **Technologies Used:** Python, Django, PostgreSQL
+- **Title:** The digital beertap - a webinformation system project
+- **Description:** This project was co-created with [Maïté van Vyve](https://www.linkedin.com/in/maïté-van-vyve/). 
+- **Technologies Used:** HTML, CSS, JS
 
 </details>
 
