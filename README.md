@@ -45,9 +45,9 @@ Let's work together to make a positive impact!
 </details>
 
 <details>
-  <summary>Digital Beertap</summary>
+  <summary>Beer Generator: the 'Digitap'</summary>
 
-- **Title:** The Digital Beertap - a [Web Information Systems](https://onderwijsaanbod.kuleuven.be/syllabi/e/G0Y11AE.htm#activetab=doelstellingen_idp33152) project
+- **Title:** Beer Generator - Digitap - a [Web Information Systems](https://onderwijsaanbod.kuleuven.be/syllabi/e/G0Y11AE.htm#activetab=doelstellingen_idp33152) project
 - **Description:** This project was co-created with [Maïté van Vyve](https://www.linkedin.com/in/maïté-van-vyve/).
 - **Technologies Used:** HTML, CSS, JS
 
