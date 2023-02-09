@@ -35,7 +35,7 @@ Let's work together to make a positive impact!
 </details>
 
 <details>
-  <summary>The digital beertap</summary>
+  <summary>Digital Beertap</summary>
 
 - **Title:** The Digital Beertap - a [Web Information Systems](https://onderwijsaanbod.kuleuven.be/syllabi/e/G0Y11AE.htm#activetab=doelstellingen_idp33152) project
 - **Description:** This project was co-created with [Maïté van Vyve](https://www.linkedin.com/in/maïté-van-vyve/).
