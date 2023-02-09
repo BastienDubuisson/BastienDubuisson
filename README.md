@@ -21,4 +21,23 @@ With the right training and support, a historian can develop the technical abili
 
 Let's work together to make a positive impact!
 
+## Portfolio
+
+<details>
+  <summary>Example Project 1</summary>
+
+- **Title:** Example Project 1
+- **Description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+- **Technologies Used:** HTML, CSS, JavaScript
+
+</details>
+
+<details>
+  <summary>Example Project 2</summary>
+
+- **Title:** Example Project 2
+- **Description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+- **Technologies Used:** Python, Django, PostgreSQL
+
+</details>
 
