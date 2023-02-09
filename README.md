@@ -1,4 +1,5 @@
-# [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=0077b5)]([https://linkedin.com/in/bastien-dubuisson](https://www.linkedin.com/in/bastien-dubuisson-805054151/)) Bastien Dubuisson
+# Bastien Dubuisson
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=0077b5)]([https://linkedin.com/in/bastien-dubuisson](https://www.linkedin.com/in/bastien-dubuisson-805054151/))
 
 <img src="https://history.uni.lu/wp-content/uploads/sites/55/2019/11/Bastien-Dubuisson-HP.jpg" alt="Bastien Dubuisson" width="300" align="left">
 
