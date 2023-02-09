@@ -28,8 +28,8 @@ Let's work together to make a positive impact!
 <details>
   <summary>Stylometric Analysis</summary>
 
-- **Title:** A Stylometric Study of a 16th Cent. Hagiographic Corpus
-- **Description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+- **Title:** Stylometric Analysis of a 16th Cent. Hagiographic Corpus
+- **Description:** Johannes Scheckmann of Trier. 
 - **Technologies Used:** R, machine learning
 
 </details>
