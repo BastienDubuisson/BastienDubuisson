@@ -25,12 +25,12 @@ Let's work together to make a positive impact!
 ## 🔨 Languages and Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-black.svg?style=flat-square&logo=python&colorB=3776AB" alt="Python">
-  <img src="https://img.shields.io/badge/-R-black.svg?style=flat-square&logo=r&colorB=0073C5" alt="R">
-  <img src="https://img.shields.io/badge/-SQL-black.svg?style=flat-square&logo=mysql&colorB=4479A1" alt="SQL">
-  <img src="https://img.shields.io/badge/-HTML-black.svg?style=flat-square&logo=html5&colorB=E44D26" alt="HTML">
-  <img src="https://img.shields.io/badge/-JS-black.svg?style=flat-square&logo=javascript&colorB=F7DF1E" alt="JS">
-  <img src="https://img.shields.io/badge/-CSS-black.svg?style=flat-square&logo=css3&colorB=264DE4" alt="CSS">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50" height="50" alt="Python">
+  <img src="https://www.r-project.org/Rlogo.png" width="50" height="50" alt="R">
+  <img src="https://seeklogo.com/images/S/sql-logo-F87E1603D8-seeklogo.com.png" width="50" height="50" alt="SQL">
+  <img src="https://seeklogo.com/images/H/html5-logo-7B8B0CFA07-seeklogo.com.png" width="50" height="50" alt="HTML">
+  <img src="https://seeklogo.com/images/J/javascript-logo-9BCE547E9F-seeklogo.com.png" width="50" height="50" alt="JS">
+  <img src="https://seeklogo.com/images/C/css3-logo-5ACC251568-seeklogo.com.png" width="50" height="50" alt="CSS">
 </p>
 
 ## Portfolio
