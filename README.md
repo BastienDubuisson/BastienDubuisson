@@ -1,5 +1,7 @@
 # Bastien Dubuisson
 
+<img src="[path/to/image.jpg](https://history.uni.lu/wp-content/uploads/sites/55/2019/11/Bastien-Dubuisson-HP.jpg)" alt="Bastien Dubuisson" width="100" align="left">
+
 ## Histrian | Digital humanist | Data scientist
 
 After graduating in History (2018), I began my computer science adventure with a one year [advanced MSc in Digital Humanities](https://set.kuleuven.be/onderwijs/mdh) at KU Leuven. I learned many new skills from programming languages (Python, R, JS, HTML, CSS, SQL) to IT management and UX Design (among many others).
@@ -35,7 +37,7 @@ Let's work together to make a positive impact!
 <details>
   <summary>The digital beertap</summary>
 
-- **Title:** The digital beertap - a webinformation system project
+- **Title:** The digital beertap - a web information systems project
 - **Description:** This project was co-created with [Maïté van Vyve](https://www.linkedin.com/in/maïté-van-vyve/). 
 - **Technologies Used:** HTML, CSS, JS
 
