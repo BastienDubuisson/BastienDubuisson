@@ -27,7 +27,7 @@ Let's work together to make a positive impact!
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50" height="50" alt="Python">
   <img src="https://www.r-project.org/Rlogo.png" width="50" height="50" alt="R">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50" height="50" alt="SQL">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="70" height="50" alt="SQL">
   <img src="https://seeklogo.com/images/H/html5-logo-7B8B0CFA07-seeklogo.com.png" width="50" height="50" alt="HTML">
   <img src="https://seeklogo.com/images/J/javascript-logo-9BCE547E9F-seeklogo.com.png" width="50" height="50" alt="JS">
   <img src="https://seeklogo.com/images/C/css3-logo-5ACC251568-seeklogo.com.png" width="50" height="50" alt="CSS">
