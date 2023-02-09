@@ -1,6 +1,6 @@
 # Bastien Dubuisson
 
-<img src="[path/to/image.jpg](https://history.uni.lu/wp-content/uploads/sites/55/2019/11/Bastien-Dubuisson-HP.jpg)" alt="Bastien Dubuisson" width="100" align="left">
+<img src="https://history.uni.lu/wp-content/uploads/sites/55/2019/11/Bastien-Dubuisson-HP.jpg" alt="Bastien Dubuisson" width="100" align="left">
 
 ## Histrian | Digital humanist | Data scientist
 
