@@ -26,19 +26,19 @@ Let's work together to make a positive impact!
 ## Portfolio
 
 <details>
-  <summary>Example Project 1</summary>
+  <summary>Stylometric Analysis</summary>
 
-- **Title:** Example Project 1
+- **Title:** A Stylometric Study of a 16th Cent. Hagiographic Corpus
 - **Description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-- **Technologies Used:** HTML, CSS, JavaScript
+- **Technologies Used:** R, machine learning
 
 </details>
 
 <details>
   <summary>The digital beertap</summary>
 
-- **Title:** The digital beertap - a [Web Information Systems](https://onderwijsaanbod.kuleuven.be/syllabi/e/G0Y11AE.htm#activetab=doelstellingen_idp33152) project
-- **Description:** This project was co-created with [Maïté van Vyve](https://www.linkedin.com/in/maïté-van-vyve/). 
+- **Title:** The Digital Beertap - a [Web Information Systems](https://onderwijsaanbod.kuleuven.be/syllabi/e/G0Y11AE.htm#activetab=doelstellingen_idp33152) project
+- **Description:** This project was co-created with [Maïté van Vyve](https://www.linkedin.com/in/maïté-van-vyve/).
 - **Technologies Used:** HTML, CSS, JS
 
 </details>
