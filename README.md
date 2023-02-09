@@ -29,8 +29,8 @@ Let's work together to make a positive impact!
   <img src="https://www.r-project.org/Rlogo.png" width="60" height="50" alt="R">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="90" height="50" alt="SQL">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" width="50" height="50" alt="HTML">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="45" height="50" alt="CSS">
   <img src="https://logos-marques.com/wp-content/uploads/2021/03/JavaScript-Logo.png" width="90" height="50" alt="JS">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="40" height="50" alt="CSS">
 </p>
 
 ## Portfolio
