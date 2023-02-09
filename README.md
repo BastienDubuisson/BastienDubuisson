@@ -1,9 +1,11 @@
 # Bastien Dubuisson
 
-**Histrian | Digital humanist | Data scientist**
+## Histrian | Digital humanist | Data scientist
 
 After graduating in History (2018), I began my computer science adventure with a one year [advanced MSc in Digital Humanities](https://set.kuleuven.be/onderwijs/mdh) at KU Leuven. I learned many new skills from programming languages (Python, R, JS, HTML, CSS, SQL) to IT management and UX Design (among many others).
 I have been able to apply aspects of my training to my research in medieval history. Using computational linguistics methods, I conduct [stylometric analyses (authorship verification) on a corpus of Latin texts from the late Middle Ages](https://doi.org/10.4000/cem.19285).
+
+## Hiring a programming historian
 
 Wondering why you should hire a programmer with a background in history and what impact it could have on your company?
 
@@ -18,37 +20,5 @@ Furthermore, the industry is in dire need of diversity in perspectives, and a ba
 With the right training and support, a historian can develop the technical abilities necessary to thrive in the field, while leveraging transferable skills to bring a fresh and unique perspective. A degree in history should be perceived as an asset in the tech industry, not a hindrance.
 
 Let's work together to make a positive impact on the industry!
-
-# Bastien Dubuisson
-
-## Biographic Details
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In auctor justo vel sollicitudin viverra. Ut hendrerit, enim a tristique consectetur, mi neque accumsan sem, quis faucibus libero libero a libero. Ut euismod, metus id malesuada iaculis, justo elit tempor lacus, a tincidunt sapien enim eget est. Sed id bibendum lectus, non scelerisque odio. Nam sit amet dui magna.
-
-## Portfolio
-
-### Project 1
-
-- **Title:** Example Project 1
-- **Description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-- **Technologies Used:** HTML, CSS, JavaScript
-
-### Project 2
-
-- **Title:** Example Project 2
-- **Description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-- **Technologies Used:** Python, Django, PostgreSQL
-
-## Blog
-
-### Blog Post 1
-
-- **Title:** How to Build a Simple Website from Scratch
-- **Description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-
-### Blog Post 2
-
-- **Title:** Introduction to Django for Beginners
-- **Description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
 
