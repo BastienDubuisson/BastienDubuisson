@@ -1,6 +1,6 @@
 # Bastien Dubuisson
 
-**'Histrian | Digital humanist | Data scientist'**
+**Histrian | Digital humanist | Data scientist**
 
 Biographie
 
