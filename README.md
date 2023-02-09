@@ -18,3 +18,37 @@ Furthermore, the industry is in dire need of diversity in perspectives, and a ba
 With the right training and support, a historian can develop the technical abilities necessary to thrive in the field, while leveraging transferable skills to bring a fresh and unique perspective. A degree in history should be perceived as an asset in the tech industry, not a hindrance.
 
 Let's work together to make a positive impact on the industry!
+
+# Bastien Dubuisson
+
+## Biographic Details
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In auctor justo vel sollicitudin viverra. Ut hendrerit, enim a tristique consectetur, mi neque accumsan sem, quis faucibus libero libero a libero. Ut euismod, metus id malesuada iaculis, justo elit tempor lacus, a tincidunt sapien enim eget est. Sed id bibendum lectus, non scelerisque odio. Nam sit amet dui magna.
+
+## Portfolio
+
+### Project 1
+
+- **Title:** Example Project 1
+- **Description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+- **Technologies Used:** HTML, CSS, JavaScript
+
+### Project 2
+
+- **Title:** Example Project 2
+- **Description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+- **Technologies Used:** Python, Django, PostgreSQL
+
+## Blog
+
+### Blog Post 1
+
+- **Title:** How to Build a Simple Website from Scratch
+- **Description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+### Blog Post 2
+
+- **Title:** Introduction to Django for Beginners
+- **Description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+
