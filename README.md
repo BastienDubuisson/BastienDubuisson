@@ -22,6 +22,17 @@ With the right training and support, a historian can develop the technical abili
 
 Let's work together to make a positive impact!
 
+## 🔨 Languages and Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-black.svg?style=flat-square&logo=python&colorB=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/-R-black.svg?style=flat-square&logo=r&colorB=0073C5" alt="R">
+  <img src="https://img.shields.io/badge/-SQL-black.svg?style=flat-square&logo=mysql&colorB=4479A1" alt="SQL">
+  <img src="https://img.shields.io/badge/-HTML-black.svg?style=flat-square&logo=html5&colorB=E44D26" alt="HTML">
+  <img src="https://img.shields.io/badge/-JS-black.svg?style=flat-square&logo=javascript&colorB=F7DF1E" alt="JS">
+  <img src="https://img.shields.io/badge/-CSS-black.svg?style=flat-square&logo=css3&colorB=264DE4" alt="CSS">
+</p>
+
 ## Portfolio
 
 <details>
