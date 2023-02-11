@@ -6,19 +6,23 @@
 After graduating in History (2018), I began my computer science adventure with a one year [advanced MSc in Digital Humanities](https://set.kuleuven.be/onderwijs/mdh) at the KU Leuven. I learned many new skills,ranging from programming languages (Python, R, JS, HTML, CSS, SQL) to IT management and UX Design (among many others).
 I have been able to apply aspects of my training to my research in medieval history. Using computational linguistics methods, I conduct [stylometric analyses (authorship verification) on a corpus of Latin texts from the late Middle Ages](https://doi.org/10.4000/cem.19285).
 
+In 2019, I started a PhD in History at the universities of Luxembourg and Namur. I study late medieval hagiographic texts from the region of Trier (Germany). 'Hagiography' refers to writings about people considered holy by social groups. The aim is to understand the political, economic and social implications of these literary productions in a period of transition between the Middle Ages and the Early modern era, in a region that is heterogeneous in terms of language and cultural influences.
+
+I now want to build my career outside the academic world. I am looking for exciting challenges, which will allow me to evolve, learn and bring real added value to society.
+
 ## The role of programming historians in companies
 
 Wondering why you should hire a programmer with a background in history and what impact it could have on your company?
 
 Many people see a degree in history as a hindrance to success in the tech industry, but I strongly believe that it is quite the opposite.
 
-First, the skills you acquire as a history student are highly transferable. You learn critical thinking, research and analytical skills, as well as the ability to communicate complex ideas in a clear and concise manner. These skills give historians the ability to solve problems and communicate effectively.
+First, the skills you acquire as a history student are highly transferable. You learn critical thinking, empathy, research and analytical skills, as well as the ability to communicate complex ideas in a clear and concise manner. These skills give historians the ability to solve problems and communicate effectively.
 
 In addition to these transferable skills, the beauty of the tech industry is that you can learn to code and develop your technical abilities. The demand for coders is at an all-time high, and with a background in history, you bring a unique perspective to the table. History teaches you about the context and evolution of societies and the role technology has played in shaping our world. This knowledge can help inform your approach to developing technology and ensure that it is developed in a way that is ethical and responsible.
 
 Furthermore, the industry is in dire need of diversity in perspectives, and a background in history can provide just that. Your understanding of the past can help shape a better future, as you bring a new way of thinking and problem-solving to the table.
 
-With the right training and support, a historian can develop the technical abilities necessary to thrive in the field, while leveraging transferable skills to bring a fresh and unique perspective. A degree in history should be perceived as an asset in the tech industry, not a hindrance.
+With the right training and support, a historian can develop the technical abilities necessary to thrive in the field, while leveraging transferable skills to bring a fresh and unique perspective. A degree in history should be perceived as a real asset in the tech industry!
 
 Let's work together to make a positive impact!
 
@@ -41,6 +45,11 @@ Let's work together to make a positive impact!
 - **Title:** GenZ Frenchies - A Bumble application project
 - **Description:** .
 - **Technologies Used:** Python, Pandas
+  Gen Z is a top music consumer. This musical culture is shared by the different spheres of the western 'Francophonie' (Brussels and Wallonie in Belgium, Luxembourg, Franche, Suisse romanche).
+  
+  First, I gathered the lyrics of the top 2022 love songs in French.
+  
+  Conclusion: Text data and NLP tools allow for cutting edge insight in French diversity. 
 
 </details>
 
