@@ -36,6 +36,15 @@ Let's work together to make a positive impact!
 ## Portfolio
 
 <details>
+  <summary>GenZ Frenchies</summary>
+
+- **Title:** GenZ Frenchies - A Bumble application project
+- **Description:** .
+- **Technologies Used:** Python, Pandas
+
+</details>
+
+<details>
   <summary>Stylometric Analysis</summary>
 
 - **Title:** Stylometric Analysis of a 16th Cent. Hagiographic Corpus
