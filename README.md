@@ -45,7 +45,7 @@ Let's work together to make a positive impact!
 - **Title:** GenZ Frenchies - A Bumble application project
 - **Description:** .
 - **Technologies Used:** Python, Pandas
-  Gen Z is a top music consumer. This musical culture is shared by the different spheres of the western 'Francophonie' (Brussels and Wallonie in Belgium, Luxembourg, Franche, Suisse romanche).
+- **Gen Z is a top music consumer. This musical culture is shared by the different spheres of the western 'Francophonie' (Brussels and Wallonie in Belgium, Luxembourg, Franche, Suisse romanche).**
   
   First, I gathered the lyrics of the top 2022 love songs in French.
   
